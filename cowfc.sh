@@ -62,7 +62,7 @@ mod1="proxy" # This is a proxy mod that is dependent on the other 2
 mod2="proxy_http" # This is related to mod1
 mod3="php7.1"
 UPDATE_FILE="$0.tmp"
-UPDATE_BASE="https://raw.githubusercontent.com/EnergyCube/cowfc_installer/master/cowfc.sh"
+UPDATE_BASE="https://raw.githubusercontent.com/jmfindorff/cowfc_installer/master/cowfc.sh"
 # Functions
 
 function update {
